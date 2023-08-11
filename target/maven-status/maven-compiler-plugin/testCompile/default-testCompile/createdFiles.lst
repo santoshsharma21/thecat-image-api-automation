@@ -1,0 +1,5 @@
+com\thecatapi\imagesapitests\TC_GetImageById.class
+com\thecatapi\imagesapitests\TC_GetUploadedImage.class
+com\thecatapi\imagesapitests\TC_UploadImage.class
+com\thecatapi\imagesapitests\TC_DeleteImage.class
+com\thecatapi\imagesapitests\TC_GetImages.class
